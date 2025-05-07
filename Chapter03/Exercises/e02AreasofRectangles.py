@@ -10,8 +10,8 @@ rect1area = rect1len * rect1wid
 rect2area = rect2len * rect2wid
 
 if rect1area > rect2area:
-    print("The first rectangle")
+    print("The first rectangle has a larger area.")
 elif rect2area > rect1area:
-    print("The second rectangle has a larger area")
+    print("The second rectangle has a larger area.")
 else:
     print("The rectangles have the same area.")
