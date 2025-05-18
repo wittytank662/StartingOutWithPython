@@ -16,3 +16,13 @@ elif day == 7:
     print("The day is sunday.")
 else:
     print("That number is not in the range of 1-7.")
+
+'''
+OUTPUT
+
+Choose a number 1-7: 5
+The day is friday.
+---------------------------------------------------------------------
+Choose a number 1-7: 10
+That number is not in the range of 1-7.
+'''

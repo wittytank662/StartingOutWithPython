@@ -25,3 +25,13 @@ else:
         print("Your number in roman numerals is IX")
     elif num == 10:
         print("Your number in roman numerals is X")
+
+'''
+OUTPUT
+
+Choose a number between 1-10. 5
+Your number in roman numerals is V
+---------------------------------------------------------------------
+Choose a number between 1-10. 50
+That is not in the range.
+'''
