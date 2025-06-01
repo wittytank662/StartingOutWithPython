@@ -23,6 +23,7 @@ print(f'{days} day(s), {hours} hour(s), {minutes} minute(s), {seconds} second(s)
 
 '''
 OUTPUT
+
 Enter a number of seconds: 100000
 1 day(s), 3 hour(s), 46 minute(s), 40 second(s).
 '''
