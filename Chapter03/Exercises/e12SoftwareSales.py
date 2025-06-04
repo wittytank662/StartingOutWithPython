@@ -13,3 +13,11 @@ elif quantity >= 100:
     
 print(f'Your discount is: {discount}.')
 print(f'The total amount of the purchase is: {price - discount}.')
+
+'''
+OUTPUT
+
+How many packages did you buy? 10
+Your discount is: 99.0.
+The total amount of the purchase is: 891.0.
+'''
