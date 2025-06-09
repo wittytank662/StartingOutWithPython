@@ -12,3 +12,11 @@ dist3 = speed * time3
 print("The distance the car will travel in 6 hours is", dist1, "miles.")
 print("The distance the car will travel in 10 hours is", dist2, "miles.")
 print("The distance the car will travel in 15 hours is", dist3, "miles.")
+
+'''
+OUTPUT
+
+The distance the car will travel in 6 hours is 420 miles.
+The distance the car will travel in 10 hours is 700 miles.
+The distance the car will travel in 15 hours is 1050 miles.
+'''
